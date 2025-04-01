@@ -4,7 +4,7 @@
 - 👨🏻‍💻 Estou aprendendo a programar no Portugol
 - 👦🏼 Tenho 16 anos
 - 🏐 Pronomes Ele/Dele
-<p align="left">Techs</p>
+- <p align="left">Techs</p>
 
 ###
 
@@ -26,18 +26,8 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=gicraft00&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gicraft00&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gicraft00&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=github_dark&hide_border=false&order=2" height="200" alt="languages graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=gicraft00&radius=16&theme=github-dark&area=true&order=5&hide_title=false&hide_border=false" height="300" alt="activity-graph graph"  />
 </div>
-
-###
-
-<br clear="both">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gicraft00/gicraft00/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gicraft00/gicraft00/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/gicraft00/gicraft00/output/pacman-contribution-graph.svg">
-</picture>
 
 ###
