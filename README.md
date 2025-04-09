@@ -4,10 +4,10 @@
 - 👨🏻‍💻 Estou aprendendo a programar no Portugol
 - 👦🏼 Tenho 16 anos
 - 🏐 Pronomes Ele/Dele
-- <br clear="both">
+<br clear="both">
 
 <div align="right">
-  <img height="200" src="https://i.makeagif.com/media/11-16-2023/uHIvSp.gif"  />
+  <img height="200" src="https://i.pinimg.com/originals/80/b7/e9/80b7e9618a99a62da3000823a818394d.gif"  />
 </div>
 
 ###
